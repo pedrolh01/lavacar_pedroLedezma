@@ -1,0 +1,41 @@
+﻿@model  Entidades.VehiculoServicio
+@{
+    ViewBag.Title = "Crear";
+}
+<h2>Crear</h2>
+
+@using (Html.BeginForm("Crear", "VehiculoServicio", FormMethod.Post))
+{ 
+
+    if (ViewBag.Vehiculos != null)
+    {
+        <select class="form-control input-lg" name="ID_Vehiculo" id="ID_Vehiculo" >
+            @foreach (Entidades.Vehiculo data in ViewBag.Vehiculos)
+            {
+                string selected = ""; 
+                <option value="@data.ID_Vehiculo" @selected>@data.Placa</option>
+
+            }
+        </select>
+    }
+    else
+    {
+        <p>no hay data</p>
+    }
+    if (ViewBag.Servicios != null)
+    {
+        <select class="form-control input-lg" name="ID_Servicio" id="ID_Servicio">
+            @foreach (Entidades.Servicios data in ViewBag.Servicios)
+            {
+                string selected = ""; 
+                <option value="@data.ID_Servicio" @selected>@data.Descripcion</option>
+
+            }
+        </select>
+    }
+    else
+    {
+        <p>no hay data</p>
+    }
+    <input type="submit" value="Create" id="Submit" />
+}

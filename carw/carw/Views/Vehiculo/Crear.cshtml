@@ -1,0 +1,18 @@
+﻿@model  Entidades.Vehiculo
+@{
+    ViewBag.Title = "Crear";
+}
+<h2>Crear</h2>
+
+@using (Html.BeginForm("Crear", "Vehiculo", FormMethod.Post))
+{
+    @Html.LabelFor(model => model.Dueno, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.EditorFor(model => model.Dueno, new { htmlAttributes = new { @class = "form-control" } })
+
+    @Html.LabelFor(model => model.Placa, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.EditorFor(model => model.Placa, new { htmlAttributes = new { @class = "form-control" } })
+
+    @Html.LabelFor(model => model.Marca, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.EditorFor(model => model.Marca, new { htmlAttributes = new { @class = "form-control" } }) 
+    <input type="submit" value="Create" id="Submit" />
+}

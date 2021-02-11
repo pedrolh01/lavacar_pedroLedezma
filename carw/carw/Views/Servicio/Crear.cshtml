@@ -1,0 +1,14 @@
+﻿@model  Entidades.Servicios
+@{
+    ViewBag.Title = "Crear";
+}
+<h2>Crear</h2>
+
+@using (Html.BeginForm("Crear", "Servicio", FormMethod.Post))
+{
+    @Html.LabelFor(model => model.Descripcion, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.EditorFor(model => model.Descripcion, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.LabelFor(model => model.Monto, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.EditorFor(model => model.Monto, new { htmlAttributes = new { @class = "form-control" } })
+    <input type="submit" value="Create" id="Submit" />
+}

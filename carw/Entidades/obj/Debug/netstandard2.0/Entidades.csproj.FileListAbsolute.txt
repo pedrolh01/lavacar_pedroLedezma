@@ -1,0 +1,9 @@
+C:\Users\TI\source\repos\carw\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\TI\source\repos\carw\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\TI\source\repos\carw\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\carw\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\TI\source\repos\carw\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\TI\source\repos\carw\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\TI\source\repos\carw\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\carw\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\TI\source\repos\carw\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

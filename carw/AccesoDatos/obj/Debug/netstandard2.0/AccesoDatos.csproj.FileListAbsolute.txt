@@ -1,0 +1,9 @@
+C:\Users\TI\source\repos\carw\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Users\TI\source\repos\carw\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\TI\source\repos\carw\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\TI\source\repos\carw\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\carw\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\TI\source\repos\carw\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\TI\source\repos\carw\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\carw\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\TI\source\repos\carw\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb

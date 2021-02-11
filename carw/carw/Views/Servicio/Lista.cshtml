@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Lista</h2>
+@if (ViewBag.Servicios != null)
+{
+<table>
+    @foreach (Entidades.Servicios data in ViewBag.Servicios)
+    {
+    <tr>
+        <td>@data.Descripcion</td>
+        <td>
+            <form action="@Url.Action("GenerarReporte", "Servicio")" method="POST">
+                <input type="hidden" name="action" value="@data.ID_Servicio">
+                <input type="submit" value="Edit" />
+            </form>  
+        </td> 
+    </tr> 
+    }
+
+</table> 
+}
+else
+{
+    <p>no hay data</p>
+}
+

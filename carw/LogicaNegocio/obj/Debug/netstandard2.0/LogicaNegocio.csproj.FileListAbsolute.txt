@@ -1,0 +1,14 @@
+C:\Users\TI\source\repos\carw\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\TI\source\repos\carw\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\TI\source\repos\carw\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\TI\source\repos\carw\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\carw\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\TI\source\repos\carw\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\TI\source\repos\carw\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\TI\source\repos\carw\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\TI\source\repos\carw\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\TI\source\repos\carw\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\TI\source\repos\carw\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\carw\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\TI\source\repos\carw\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\TI\source\repos\carw\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb

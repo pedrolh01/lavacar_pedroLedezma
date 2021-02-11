@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "GenerarReporte";
+}
+
+<h2>GenerarReporte</h2>
+@if (ViewBag.VehiculoServicio != null)
+{
+    <select class="form-control input-lg" name="VehiculoServicio" id="VehiculoServicio">
+        @foreach (Entidades.VehiculoServicio data in ViewBag.VehiculoServicio)
+        {
+        string selected = "";
+        <option value="@data.VehiculoName" @selected>@data.VehiculoName</option>  
+        }
+    </select>
+}
+else
+{
+    <p>no hay data</p>
+}
+         
